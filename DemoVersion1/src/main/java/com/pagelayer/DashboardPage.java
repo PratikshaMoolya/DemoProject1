@@ -5,8 +5,6 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.testbase.TestBase;
 
-
-
 public class DashboardPage extends TestBase{
 	
 	public DashboardPage()
